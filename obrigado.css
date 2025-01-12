@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+}
+
+.texto{
+    background-color: #f1edde;
+
+    height: 100%;
+    width: 100%;
+
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+.texto h1{
+    font-size: 5rem;
+
+    color: #700831;
+}
+
+.texto h2{
+    color: #fa2a46;
+
+    letter-spacing: 8px;
+}
